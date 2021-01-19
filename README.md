@@ -1,2 +1,2 @@
 # elearning
-E-Leaening SMK NU
+E-Learning SMK NU
